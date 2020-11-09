@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+# Screenshot of the working app:
+
+![](images/covid_19.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
